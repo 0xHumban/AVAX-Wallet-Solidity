@@ -24,6 +24,6 @@
 - `getfreeze()` to see if app are forzen
 - `getBalance()` to see of many you have in your wallet
 - `withdrawAllMoney()` wthdraw all of your money in your wallet to an external address
-- `withdrawMoney() ` withdraw part of your money in your wallet to an external address
+- `withdrawMoney()` withdraw part of your money in your wallet to an external address
 - `receive()` allows you to deposit money in your wallet
 
