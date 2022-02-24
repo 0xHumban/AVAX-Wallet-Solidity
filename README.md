@@ -5,7 +5,7 @@
 ```
  You can test it with fake AVAX : 
 ```
-[AVAX Faucet](https://faucet.avax-test.network/)
+> [AVAX Faucet](https://faucet.avax-test.network/)
  
  
 ## Contract :
