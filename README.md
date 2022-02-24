@@ -3,12 +3,12 @@
  Deploy on Avax Fuji Testnet.
  
  '''
- You can test it with fake AVAX : AVAX_Faucet[https://faucet.avax-test.network/]
+ You can test it with fake AVAX : [AVAX Faucet](https://faucet.avax-test.network/)
  '''
  
  
 ## Contract :
- Contract address : 0x[https://testnet.avascan.info/blockchain/c/tx/0x]
+ Contract address : [0x](https://testnet.avascan.info/blockchain/c/tx/0x)
  
  
 ## Functions :
