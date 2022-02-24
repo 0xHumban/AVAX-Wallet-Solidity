@@ -6,7 +6,7 @@
 ```
  You can test it with fake AVAX : 
 ```
-> [AVAX Faucet](https://faucet.avax-test.network/)
+- [AVAX Faucet](https://faucet.avax-test.network/)
  
  If you want test you can use Remix and copy-paste contract address, and play with functions !
  
