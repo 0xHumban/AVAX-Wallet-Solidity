@@ -10,7 +10,7 @@
  
  If you want test you can use Remix and copy-paste contract address, and play with functions !
  
- > I will try to create a simple app to make it easier !
+ > I will try to create a simple Web-app to make it easier !
  
  
 ## Contract :
