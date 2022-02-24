@@ -13,4 +13,6 @@
  
  
 ## Functions :
+
+> Possibility for the owner to freeze the application
 > ds
