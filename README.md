@@ -8,6 +8,10 @@
 ```
 > [AVAX Faucet](https://faucet.avax-test.network/)
  
+ If you want test you can use Remix and copy-paste contract address, and play with functions !
+ 
+ > I will try to create a simple app to make it easier !
+ 
  
 ## Contract :
  Contract address (**Wallet.sol**) : [0xAda039DB9466C4035d704387F9DbcFDC90B02EC6](https://testnet.snowtrace.io/address/0xada039db9466c4035d704387f9dbcfdc90b02ec6)
