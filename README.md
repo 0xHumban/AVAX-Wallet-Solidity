@@ -12,7 +12,7 @@
 ## Contract :
  Contract address (**Wallet.sol**) : [0x](https://testnet.avascan.info/blockchain/c/tx/0x)
  
- Contract address (Owner.sol) :  [0x](https://testnet.avascan.info/blockchain/c/tx/0x)
+ Contract address (**Owner.sol**) :  [0x](https://testnet.avascan.info/blockchain/c/tx/0x)
  
 ## Functions :
 
