@@ -2,9 +2,9 @@
  A traditional ETH wallet with solidity.
  Deploy on Avax Fuji Testnet.
  
- '''
+```
  You can test it with fake AVAX : [AVAX Faucet](https://faucet.avax-test.network/)
- '''
+```
  
  
 ## Contract :
