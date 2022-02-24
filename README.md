@@ -1,5 +1,6 @@
 # ETH / AVAX Wallet Solidity
  A traditional ETH wallet with solidity.
+ 
  Deploy on Avax Fuji Testnet.
  
 ```
@@ -14,7 +15,7 @@
  
 ## Functions :
 
-- `setupFreeze` possibility for the owner to freeze the application
+- `setupFreeze()` possibility for the owner to freeze the application
 - `getfreeze()` to see if app are forzen
 - `getBalance()` to see of many you have in your wallet
 - `withdrawAllMoney()` wthdraw all of your money in your wallet to an external address
