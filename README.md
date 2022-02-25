@@ -1,5 +1,5 @@
 # AVAX Wallet in Solidity
- A traditional ETH wallet with solidity.
+ A traditional AVAX wallet with solidity.
  
  Deploy on Avax Fuji Testnet.
  
