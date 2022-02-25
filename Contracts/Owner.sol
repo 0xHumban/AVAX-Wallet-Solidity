@@ -1,4 +1,5 @@
 pragma solidity ^0.8.7;
+//import '@openzepplin/contracts/access/Ownable.sol';
 
 contract Owner {
 
@@ -19,4 +20,7 @@ contract Owner {
         require(msg.sender == owner, "Not the owner");
         _;
     }
+
+    
+
 }
