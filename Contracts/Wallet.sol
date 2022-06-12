@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
-
+import 'Interface/IWallet.sol';
 import './Owner.sol';
 contract Wallet is Owner {
 
@@ -18,20 +18,20 @@ contract Wallet is Owner {
     mapping(address => Balance) Wallets;
 
 
-    function setupFreeze(bool _value) public Owner.isOwner(){
+    function setupFreeze(bool _value) external Owner.isOwner(){
         Owner.freeze = _value;
     }
 
-    function getFreeze() public view returns(bool) {
+    function getFreeze() external view returns(bool) {
         return Owner.freeze;
     }
 
 
-    function getTotalBalance() public Owner.isOwner() view returns(uint) {
+    function getTotalBalance() external Owner.isOwner() view returns(uint) {
         return address(this).balance;
     }
 
-    function getBalance() public view returns(uint) {
+    function getBalance() external view returns(uint) {
         return Wallets[msg.sender].totalBalance;
     }
 
